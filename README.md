@@ -5,4 +5,4 @@ What I Learned: Creation of Java linked lists,
 
 Ascension sorting in Java, and
 
-Creation of a Java console application in Eclipse,
+Creation of a Java console application in Eclipse
